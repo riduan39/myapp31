@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523593666569",
+    "project_id": "registerandsigning",
+    "storage_bucket": "registerandsigning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523593666569:android:b8bcbbc0e7d136fe2ca8d8",
+        "android_client_info": {
+          "package_name": "com.example.myapp31"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523593666569-64kkd4otdak1mvg9n3ev21iiq0qsfja3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapp31",
+            "certificate_hash": "bd593eeba7a39b30923cff9033a40df25a3bcad1"
+          }
+        },
+        {
+          "client_id": "523593666569-130ivpqdornansar8adou9lv3d8u6tqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk_eo_az2-ByOENkRTWwg5KqYSXMzalUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523593666569-130ivpqdornansar8adou9lv3d8u6tqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
